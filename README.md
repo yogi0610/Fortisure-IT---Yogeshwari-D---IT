@@ -1,4 +1,4 @@
-Retail Sales SQL Assessment
+Retail Sales SQL Assessment.
 This assessment was completed using SQL to work with retail sales data. The main objective was to clean the data, check the relationships between tables and analyze sales and returns for October 2026.
 The database was created using MySQL, and all the required tables were created based on the given instructions. The provided insert scripts were executed to load the data into the tables. After loading, the record counts were checked to make sure the data was inserted correctly.
 The data cleaning tasks included standardizing store regions and removing duplicate order lines by keeping the latest record based on the LoadedAt value. The cleaned data was then used for the remaining queries.
